@@ -34,7 +34,7 @@
     "swagger-parser": "^8.0.4",
     "typescript": "^3.7.4",
     "url-parse": "^1.4.7",
-    "yargs": "^15.1.0"
+    "yargs": "^16.0.0"
   },
   "scripts": {
     "build": "tsc && npm run cli:runnable",
