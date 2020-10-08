@@ -51,7 +51,7 @@
     "@types/jest": "26.0.13",
     "@types/mime-types": "2.1.0",
     "@types/pluralize": "0.0.29",
-    "@types/yargs": "15.0.5",
+    "@types/yargs": "15.0.8",
     "commitizen": "4.1.2",
     "cz-conventional-changelog": "3.2.0",
     "husky": "4.2.5",
