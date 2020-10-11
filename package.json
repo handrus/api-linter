@@ -55,7 +55,7 @@
     "commitizen": "4.1.2",
     "cz-conventional-changelog": "3.2.0",
     "husky": "4.2.5",
-    "jest": "26.4.2",
+    "jest": "26.5.3",
     "semantic-release": "17.1.1",
     "snyk": "1.387.1",
     "ts-jest": "26.3.0",
